@@ -20,7 +20,7 @@ I am a passionate mobile application developer with expertise in **React Native*
 
 ## 💼 Experience
 
-### 👨‍💼 **Senior React Native Developer** – Muuve
+### 👨‍💼 **Senior React Native Developer** – Muuve  
 **03/2024 – Present | Remote**  
 - Developed a modern React Native app for a South African ride-hailing startup  
 - Integrated real-time location tracking, push notifications, and payment processing  
@@ -71,21 +71,38 @@ Truck driver advertising app with real-time tracking
 
 ## 🛠️ Skills & Tools
 
-### Languages & Frameworks
+### 🧠 Languages & Frameworks
 - ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
 - ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
 - ![React Native](https://img.shields.io/badge/React_Native-20232A.svg?style=flat-square&logo=react&logoColor=61DAFB)
+- ![React Native CLI](https://img.shields.io/badge/React%20Native%20CLI-blue?style=flat-square&logo=react)
 - ![Expo](https://img.shields.io/badge/Expo-000020.svg?style=flat-square&logo=expo&logoColor=white)
+- ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 
-### Tools & Platforms
-- SQLite, Firebase, Agora, Stripe, Google Maps SDK  
-- Redux, Redux-Saga, Redux-Toolkit  
-- Socket.IO, WebSocket  
-- Native Modules, In-App Purchases  
-- Xcode, Android Studio  
-- Git/GitHub, Agile, Jest  
-- App Store & Play Store deployment  
-- Laravel (for API integrations)
+### 🔌 State & Data
+- ![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white)
+- ![Redux-Saga](https://img.shields.io/badge/Redux--Saga-999999?style=flat-square)
+- ![Redux Toolkit](https://img.shields.io/badge/Redux--Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
+- ![React Query](https://img.shields.io/badge/React%20Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
+
+### 🧩 Backend & Services
+- ![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=flat-square&logo=firebase&logoColor=black)
+- ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+- Laravel (API Integration)
+
+### 🗺 Location, Realtime & Multimedia
+- ![Google Maps](https://img.shields.io/badge/Google%20Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white)
+- ![Socket.IO](https://img.shields.io/badge/Socket.IO-black?style=flat-square&logo=socketdotio)
+- SQLite, WebSocket, Agora, Stripe, In-App Purchases
+
+### 🧪 Testing & CI/CD
+- ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+- Detox, Playwright, GitHub Actions
+
+### 🧰 Tools
+- ![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=flat-square&logo=xcode&logoColor=white)
+- ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
+- Git, GitHub, Agile, App Store & Play Store deployment
 
 ---
 

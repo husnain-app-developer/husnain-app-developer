@@ -20,7 +20,7 @@ I am a passionate mobile application developer with expertise in **React Native*
 
 ## 💼 Experience
 
-### 👨‍💼 **Senior React Native Developer** – [Muuve](https://muuve.co.za)  
+### 👨‍💼 **Senior React Native Developer** – Muuve
 **03/2024 – Present | Remote**  
 - Developed a modern React Native app for a South African ride-hailing startup  
 - Integrated real-time location tracking, push notifications, and payment processing  

@@ -22,9 +22,8 @@ I am a passionate mobile application developer with expertise in **React Native*
 
 ### 👨‍💼 **Senior React Native Developer** – Muuve  
 **03/2024 – Present | Remote**  
-- Developed a modern React Native app for a South African ride-hailing startup  
-- Integrated real-time location tracking, push notifications, and payment processing  
-- Used Playwright and Detox for E2E testing and automation  
+- Developed a modern web app  
+- Integrated google maps, google auto complete, and payment processing  
 - Collaborated with designers and backend developers to deliver a production-ready MVP
 
 ### 👨‍💼 **Frontend Developer** – Fabulous Technology Solutions  

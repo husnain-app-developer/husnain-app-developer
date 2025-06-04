@@ -2,9 +2,6 @@
 <h3 align="center">A passionate Senior React Native Developer from Lahore, Pakistan</h3>
 
 <p align="center">
-  <a href="https://github.com/qadirali876">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
   <a href="mailto:husnain.bin.ramzan@gmail.com">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>

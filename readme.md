@@ -1,75 +1,108 @@
-[<img src="images/svg/header_en.svg"></img>
-
-<table align="right">
- <tr><td><a href="README.md"><img src="images/us-flag.png" height="13"> English</a></td></tr>
- <tr><td><a href="README_fr.md"><img src="images/fr-flag.png" height="13"> Urdu</a></td></tr>
- <tr><td><a href="README_pt.md"><img src="images/br-flag.png" height="13"> Punjabi</a></td></tr>
-</table>
-
-### :space_invader: &nbsp;About Me
-
-&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently working as a Frontend Engineer at [Muuve](https://muuve.co.za/). \
-&nbsp;&nbsp;&nbsp;:seedling: &nbsp;Love for science and innovation.\
-&nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate with problem solving and daily routines automation.\
-&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Currently researching software architecture, development, and quality.\
-&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Coding since 2022 with 2+ years of experience in enterprise wide software
-development.\
-&nbsp;&nbsp;&nbsp;:family_man_woman_girl_girl: &nbsp;Living in Pakistan :two_hearts.
+<h1 align="center">Hi 👋, I'm Husnain</h1>
+<h3 align="center">A passionate Senior React Native Developer from Lahore, Pakistan</h3>
 
 <p align="center">
-  <a href="mailto:brunotacca@gmail.com?subject=Olá%20Bruno%20Tacca"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.facebook.com/bruno.vitorellitacca"><img src="https://img.shields.io/badge/facebook-%233B5998.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/brunotacca/"><img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/brunotacca/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <!--
-  <a href="https://twitter.com/BrunoTacca"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="http://lattes.cnpq.br/5511556848445955"><img src="https://img.shields.io/badge/lattes-FFFFFF.svg?&style=for-the-badge&&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAACEFBMVEUAAAApQ14nQFj////r7/O8xMu8xMwnQlwmP1eeqLQjO1I2WHu1vsZjdYcsS2p4h5avuMI2XIPByM44ZJCbqrk1YYwtVn5mjrcxW4UwWIAvW4YAAAUrX5EvY5ksXIspW438/P0lU4EoV4ZhhKfe5u4nPVQqQlspQVsiO1QLJUAgNEkrRmEzUnI7X4Q/Y4dLZoJWbIJsfY7Axs4tS2k7YYicutixwtO5xM/U2d7r7e8hOFA6YoqErdWBnLc+Y4guT3E7VGw9U2hufY0wU3ZCcqKGqMlZgalKa4x0h5pofJD///80XYVCdal1l7t1nMNOhr6is8VMa4muusUlSGtDdqlQeaSqu8yGrNKVtte4zN90jqhBapObrL3///9Tfad4nMF9oshskLOJnK95gIZldodEX3oxW4ajtcf///8tVXw4YYlDa5JEbZY8XX0hPlsgQmS6ydj///8uWIEuX4/r7/QvYpcuZJrV3+r///8oWYsoXZKMqcbe5u7///8VN1YnWYyKp8PI1uP5+vz///9Rd52sv9Pd5e3///////9MfrBeksdOgrdUjslPh8FNhsFFea5BcaFJgrtHgLlGgLpii7VJf7dCerNDc6MqVYA0aZ1IeKktX5EtX5AsXY0tXY0wY5YyaZ4yaaB7ncAtZJouZJouZJssY5ovZZtrkbgnXZMlXJIoXpREc6I0ZZZTfaf///+qBrbaAAAAiXRSTlMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIl5fNRAFYND19Om8Zg5R7/zSmW8hCar98/DIVDYSE8r47OKPdgQRw+2x+7fQOgWa+G9+197Q/IsBVNrz/aQjWLL1sAw+5vbu7d3urAsQvHhn+7gbIdj2pCQCie64Wg0qqZVMEWJdG8oAAAABYktHRAMRDEzyAAAACXBIWXMAAAsSAAALEgHS3X78AAAAB3RJTUUH5QISCjIeEGUAIQAAAAFvck5UAc+id5oAAADXSURBVAjXY2BgZGJWVVPX0GRhZWNgYGDn0NLW0dXTNzA04gRyubiNTTq7TM3MLSx5eBkY+Kysu3tsbO3sHRyd+AUYBJ1devtc3fonuHt4egkxCHv7TJzk6+c/eUpAYJAIg2hwyNRpoWHhEZFR0TGxDGLicfEJiUnJKalp09MzGCQkM7Oyc3Lz8mfMnFVQyMAgVVQ8e87cefMXLFxUIs3AICNbWrZ4ydJly1eUVzAzMMjJV1atXLV6TXVNrQKQy6BYV792XUNjUzMzM4irpNzS2tbeoQLiAQAJLzuSRlKzowAAABZ0RVh0Q3JlYXRpb24gVGltZQAwNi8xOC8xMnLMg2gAAAAldEVYdGRhdGU6Y3JlYXRlADIwMjEtMDItMThUMTA6NTA6MTQrMDA6MDBPCDl2AAAAJXRFWHRkYXRlOm1vZGlmeQAyMDIxLTAyLTE4VDEwOjUwOjE0KzAwOjAwPlWBygAAABx0RVh0U29mdHdhcmUAQWRvYmUgRmlyZXdvcmtzIENTNXG14zYAAAAASUVORK5CYII=" />
+  <a href="https://github.com/qadirali876">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  -->
+  <a href="mailto:husnain.bin.ramzan@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </p>
 
-<hr/>
+---
 
-<details>
-  <summary><b>:computer: &nbsp;Main tech knowledge</b></summary>
-  <br/>
- 
-![MobX](https://img.shields.io/badge/MOBX-%23121011.svg?&style=flat&logo=mobx&logoColor=white) &nbsp;
-![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=html5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat&logo=css3&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E)&nbsp;
-![TypeScript](https://img.shields.io/badge/TYPESCRIPT-%23007ACC.svg?&style=flat&logo=typescript&logoColor=white)&nbsp;\
-![Git](https://img.shields.io/badge/GIT-%23F05033.svg?&style=flat&logo=git&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?&style=flat&logo=github&logoColor=white)&nbsp;
-![Docker](https://img.shields.io/badge/DOCKER-2496ED.svg?&style=flat&logo=docker&logoColor=white)&nbsp;
-![Ant](https://img.shields.io/badge/ANT-A81C7D.svg?&style=flat&logo=apache-ant)&nbsp;
-![REST API](https://img.shields.io/badge/REST-02569B.svg?&style=flat&logo=rest&logoColor=white)&nbsp;
-![LINUX](https://img.shields.io/badge/LINUX-FCC624?style=flat-square&logo=linux&logoColor=black)
-![VSCode](https://img.shields.io/badge/VSCODE-007ACC.svg?&style=flat&logo=visual-studio-code)&nbsp;
-![MVC Architecture](https://img.shields.io/badge/MVC-888888.svg?&style=flat&logoColor=white)&nbsp;
+## 🚀 About Me
 
-<!--  MobX.
-GitHub, Docker
-Ant,
-VSCode,JS, TS, RTQ, Redux, React, Next, Supabase,
-TDD, BDD, DDD
-clean architecture, mvc
-linux
--->
-</details>
+I am a passionate mobile application developer with expertise in **React Native**, having developed multiple successful applications across various domains. I deliver high-quality, user-friendly apps and lead teams to success. My projects focus on **real-time communication**, **performance optimization**, and **seamless user experience**, showcasing my commitment to exceptional software development.
 
-<!--  sass
-mongodb,
-github actions
--->
+---
 
-<details>
-  <summary><b>:brain: &nbsp;Other knowledge, always learning</b></summary>
-  <br/>
+## 💼 Experience
 
-![Firebase](https://img.shields.io/badge/FIREBASE-FFCA28.svg?&style=flat&logo=firebase&logoColor=black)&nbsp;
-![GithubActions](https://img.shields.io/badge/GITHUB%20ACTIONS-2088FF.svg?&style=flat&logo=github-actions&logoColor=white)&nbsp;\
-![MongoDB](https://img.shields.io/badge/MONGODB-47A248.svg?&style=flat&logo=mongodb&logoColor=white)&nbsp; ![SASS](https://img.shields.io/badge/SASS-CC6699.svg?&style=flat&logo=sass&logoColor=white)&nbsp;
+### 👨‍💼 **Senior React Native Developer** – [Muuve](https://muuve.co.za)  
+**03/2024 – Present | Remote**  
+- Developed a modern React Native app for a South African ride-hailing startup  
+- Integrated real-time location tracking, push notifications, and payment processing  
+- Used Playwright and Detox for E2E testing and automation  
+- Collaborated with designers and backend developers to deliver a production-ready MVP
 
-</details>
-](https://github.com/abu-husnain)
+### 👨‍💼 **Frontend Developer** – Fabulous Technology Solutions  
+**08/2023 – 03/2024 | Sialkot, Pakistan**  
+- Led mobile frontend for logistics and feedback apps using React Native  
+- Implemented local sync with SQLite for offline message storage  
+- Enabled real-time media sync including images, videos, and location sharing  
+- Published 4 mobile apps on the Google Play Store & Apple App Store
+
+---
+
+## 📂 Projects
+
+### 🔴 **BanoLive**  
+Live streaming app with video/audio chat and PK battle mode  
+- Play Store: [BanoLive](https://play.google.com/store/apps/details?id=com.bano.live&hl=en)  
+- Built independently in React Native with Agora and Firebase  
+- Implemented multi-host streaming, PK battles, and optimized latency by 30%
+
+### 🚗 **GoZippRides**  
+Real-time ride-booking app with location tracking and car animation  
+- App Store: [GoZippRides iOS](https://apps.apple.com/us/app/zipprides/id6742736541)  
+- Play Store: [GoZippRides Android](https://play.google.com/store/apps/details?id=com.fabindrive)  
+- Used Google Maps SDK, live socket tracking, and real-time communication features
+
+### 🏥 **Care Feedback Solutions**  
+App for collecting real-time feedback in care homes  
+- App Store: [iOS](https://apps.apple.com/ng/app/care-feedback-solutions/id6483002024)  
+- Play Store: [Android](https://play.google.com/store/apps/details?id=com.fabtechsol2.feedback)  
+- Led development and performance optimization, API integration, and maintenance
+
+### 🍔 **DZFood**  
+Food delivery platform with Stripe integration  
+- App Store: [DZFood](https://apps.apple.com/us/app/dz-food/id1584951845)  
+- Developed UI in Expo, handled Laravel API integration, and implemented online payments
+
+### 🚚 **Rolling Adz**  
+Truck driver advertising app with real-time tracking  
+- App Store: [iOS](https://apps.apple.com/us/app/drive-rolling-adz/id6738464473)  
+- Play Store: [Android](https://play.google.com/store/apps/details?id=com.fabtechsol.izikrollingadz)  
+- Developed continuous background tracking and ensured store compliance
+
+---
+
+## 🛠️ Skills & Tools
+
+### Languages & Frameworks
+- ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
+- ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
+- ![React Native](https://img.shields.io/badge/React_Native-20232A.svg?style=flat-square&logo=react&logoColor=61DAFB)
+- ![Expo](https://img.shields.io/badge/Expo-000020.svg?style=flat-square&logo=expo&logoColor=white)
+
+### Tools & Platforms
+- SQLite, Firebase, Agora, Stripe, Google Maps SDK  
+- Redux, Redux-Saga, Redux-Toolkit  
+- Socket.IO, WebSocket  
+- Native Modules, In-App Purchases  
+- Xcode, Android Studio  
+- Git/GitHub, Agile, Jest  
+- App Store & Play Store deployment  
+- Laravel (for API integrations)
+
+---
+
+## 🎓 Education
+
+**MSc in Computer Science**  
+*03/2019 – 12/2021*  
+Khawaja Fareed University Of Engineering & IT, Rahim Yar Khan, Pakistan
+
+**BSc in Double Computer**  
+*02/2017 – 01/2019*  
+Khawaja Fareed College, Rahim Yar Khan, Pakistan
+
+---
+
+## 📫 Get in Touch
+
+- 📧 Email: [husnain.bin.ramzan@gmail.com](mailto:husnain.bin.ramzan@gmail.com)  
+- 📱 Phone: +92 309 3747499  
+- 🌍 Location: Lahore, Pakistan

@@ -1,4 +1,4 @@
-<img src="images/svg/header_en.svg"></img>
+[<img src="images/svg/header_en.svg"></img>
 
 <table align="right">
  <tr><td><a href="README.md"><img src="images/us-flag.png" height="13"> English</a></td></tr>
@@ -8,7 +8,7 @@
 
 ### :space_invader: &nbsp;About Me
 
-&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently working as a Software Engineer at [Muuve](https://muuve.co.za/). \
+&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently working as a Frontend Engineer at [Muuve](https://muuve.co.za/). \
 &nbsp;&nbsp;&nbsp;:seedling: &nbsp;Love for science and innovation.\
 &nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate with problem solving and daily routines automation.\
 &nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Currently researching software architecture, development, and quality.\
@@ -72,3 +72,4 @@ github actions
 ![MongoDB](https://img.shields.io/badge/MONGODB-47A248.svg?&style=flat&logo=mongodb&logoColor=white)&nbsp; ![SASS](https://img.shields.io/badge/SASS-CC6699.svg?&style=flat&logo=sass&logoColor=white)&nbsp;
 
 </details>
+](https://github.com/abu-husnain)

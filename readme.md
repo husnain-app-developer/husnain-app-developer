@@ -22,7 +22,7 @@ I am a passionate mobile application developer with expertise in **React Native*
 
 ### 👨‍💼 **Senior React Native Developer** – Muuve  
 **03/2024 – Present | Remote**  
-- Developed a modern web app  
+- Developed a modern App  
 - Integrated google maps, google auto complete, and payment processing  
 - Collaborated with designers and backend developers to deliver a production-ready MVP
 

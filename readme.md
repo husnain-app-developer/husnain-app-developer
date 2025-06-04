@@ -108,18 +108,14 @@ Truck driver advertising app with real-time tracking
 
 ## 🎓 Education
 
-**MSc in Computer Science**  
-*03/2019 – 12/2021*  
-Khawaja Fareed University Of Engineering & IT, Rahim Yar Khan, Pakistan
-
-**BSc in Double Computer**  
+**BS in Computer Science**  
 *02/2017 – 01/2019*  
-Khawaja Fareed College, Rahim Yar Khan, Pakistan
+Virtual University of Pakistan
 
 ---
 
 ## 📫 Get in Touch
 
 - 📧 Email: [husnain.bin.ramzan@gmail.com](mailto:husnain.bin.ramzan@gmail.com)  
-- 📱 Phone: +92 309 3747499  
+- 📱 Phone: +92 321 4520432  
 - 🌍 Location: Lahore, Pakistan
